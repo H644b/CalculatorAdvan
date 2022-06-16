@@ -18,11 +18,13 @@ Welcome to this calculator designed by
 <tag id="name"><b id="blue">T</b><b id="green">I</b><b id="red">M</b><b id="turquoise">U</b><b id="purple">R</b></tag> <button id="youtube" onclick="window.open('https://www.youtube.com/channel/UCuyihpzyyPeJDjn1IfDOqJg','_blank')"><img src="./Social.png" height="50" width="50" /></button>
 
 </div>
+<div id="border">
 <div id="awnser">first number
 <input type="number" class="ibox" id="firstnum">
 </div>
 <div id="awnser">second number
 <input type="number" class="ibox" id="secnum">
+</div>
 </div>
 <div id="buttons">
 <button onclick="add()" id="method">Add
