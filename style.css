@@ -44,6 +44,11 @@ border-color: red;
 padding: 10px;
 }
 
+.ibox
+{
+  border-radius: 20px;
+  border-style: none;
+}
 #blue {
 color: blue;
 }
